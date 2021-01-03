@@ -1,2 +1,0 @@
-# nuxt-scss
-Nuxt Boilerplate
